@@ -6,6 +6,8 @@
 
 ---
 
+![Capture](https://github.com/user-attachments/assets/0540ad1d-6e44-4f2b-99ae-3411c6938ac3)
+
 ## 🧊 Features
 
 ✅ One-click system restore and registry backup  
