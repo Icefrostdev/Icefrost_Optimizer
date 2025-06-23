@@ -87,6 +87,6 @@ Format:
 
 <h2 align="left">❤️ Credits</h2>
 
-Made with care by **Ezekiel Dumanglas**  
-Banner inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
+Made with care by **Icefrostki**  
+Banner and design inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
 
