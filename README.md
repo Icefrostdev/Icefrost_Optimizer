@@ -1,5 +1,5 @@
-<p align="left">
-   <img src="![Capture](https://github.com/user-attachments/assets/7dae8784-78ec-481f-947a-56f85af140ae)
+<p align="center">
+   <img src="https://github.com/Icefrostki/Icefrost_Optimizer/blob/main/Banner.PNG"
 ">
 </p>
 
