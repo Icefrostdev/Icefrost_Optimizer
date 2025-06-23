@@ -1,11 +1,12 @@
 <p align="center">
-   <img src="https://github.com/Icefrostki/Icefrost_Optimizer/blob/main/Banner.PNG"
+   <img src="![Banner](https://github.com/user-attachments/assets/df3d9723-1422-49db-9a22-e837ef810662)
+"
 ">
 </p>
 
 <p align="center">
 	<a href="https://github.com/Icefrostki/Icefrost_Optimizer/releases/download/v.0.0.1/Icefrost.Optimizer.bat" target="_blank">
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
+		<img src="https://github.com/Icefrostki/Icefrost_Optimizer/blob/main/Download.png">
 		<br>
 	</a>
 </p>
