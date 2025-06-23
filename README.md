@@ -1,9 +1,9 @@
-<p align="center">
+<p align="left">
    <img src="![Capture](https://github.com/user-attachments/assets/7dae8784-78ec-481f-947a-56f85af140ae)
 ">
 </p>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/icefrostki/icefrost-optimizer/releases/latest" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
@@ -11,7 +11,7 @@
 	</a>
 </p>
 
-<h2 align="center">❄️ Icefrost Optimizer – Advanced System Tweaking Utility</h2>
+<h2 align="left">❄️ Icefrost Optimizer – Advanced System Tweaking Utility</h2>
 
 Welcome to **Icefrost Optimizer** — a powerful command-line-based system optimizer for Windows, built to enhance gaming performance, reduce latency, and clean your system without bloatware or fluff.
 
@@ -19,7 +19,7 @@ Welcome to **Icefrost Optimizer** — a powerful command-line-based system optim
 
 ---
 
-<h2 align="center">🏗️ Key Features</h2>
+<h2 align="left">🏗️ Key Features</h2>
 
 - One-click restore point + full registry backup  
 - Fullscreen Optimization (FSO) & GameDVR tweaks  
@@ -34,19 +34,19 @@ Welcome to **Icefrost Optimizer** — a powerful command-line-based system optim
 
 ---
 
-<h2 align="center">⬇️ Downloads</h2>
+<h2 align="left">⬇️ Downloads</h2>
 
 Grab the latest release of Icefrost Optimizer from the [Releases](https://github.com/icefrostki/icefrost-optimizer/releases) page.
 
 ---
 
-<h2 align="center">🖼️ Screenshots</h2>
+<h2 align="left">🖼️ Screenshots</h2>
 
 See Icefrost in action: [Screenshots](https://github.com/icefrostki/icefrost-optimizer/blob/main/SCREENSHOTS.md)
 
 ---
 
-<h2 align="center">⚙️ Usage</h2>
+<h2 align="left">⚙️ Usage</h2>
 
 1. Right-click `Icefrost_Optimizer.bat` → **Run as Administrator**  
 2. Choose your protection method:  
@@ -59,7 +59,7 @@ See Icefrost in action: [Screenshots](https://github.com/icefrostki/icefrost-opt
 
 ---
 
-<h2 align="center">🔄 Backup Output</h2>
+<h2 align="left">🔄 Backup Output</h2>
 
 Backups are stored in:  
 `C:\Backup Registry\`  
@@ -69,7 +69,7 @@ Format:
 
 ---
 
-<h2 align="center">🧠 Target Audience</h2>
+<h2 align="left">🧠 Target Audience</h2>
 
 - Gamers looking to reduce input latency & increase FPS  
 - Advanced users and tinkerers  
@@ -77,7 +77,7 @@ Format:
 
 ---
 
-<h2 align="center">🔐 Safety</h2>
+<h2 align="left">🔐 Safety</h2>
 
 - ⚠️ Always back up before applying changes  
 - All modifications are local, offline, and transparent  
@@ -85,7 +85,7 @@ Format:
 
 ---
 
-<h2 align="center">❤️ Credits</h2>
+<h2 align="left">❤️ Credits</h2>
 
 Made with care by **Ezekiel Dumanglas**  
 Banner inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
