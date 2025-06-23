@@ -7,7 +7,6 @@
 	<a href="https://github.com/icefrostki/icefrost-optimizer/releases/latest" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
 	</a>
 </p>
 
