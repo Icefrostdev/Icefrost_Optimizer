@@ -1,85 +1,92 @@
-# ❄️ Icefrost Optimizer "Frost"
+<p align="center">
+   <img src="![Capture](https://github.com/user-attachments/assets/7dae8784-78ec-481f-947a-56f85af140ae)
+">
+</p>
 
-**Icefrost Optimizer** is a powerful Windows tweaking and performance tool designed to improve gaming, responsiveness, and system behavior through safe and controlled system optimizations.
+<p align="center">
+	<a href="https://github.com/icefrostki/icefrost-optimizer/releases/latest" target="_blank">
+		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
+		<br>
+		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
+	</a>
+</p>
 
-> ⚠️ **WARNING:** This tool makes changes to critical Windows settings. Always create a **System Restore Point** and **Registry Backup** before applying tweaks.
+<h2 align="center">❄️ Icefrost Optimizer – Advanced System Tweaking Utility</h2>
 
----
+Welcome to **Icefrost Optimizer** — a powerful command-line-based system optimizer for Windows, built to enhance gaming performance, reduce latency, and clean your system without bloatware or fluff.
 
-![Capture](https://github.com/user-attachments/assets/0540ad1d-6e44-4f2b-99ae-3411c6938ac3)
-
-## 🧊 Features
-
-✅ One-click system restore and registry backup  
-✅ Timer Resolution & Input Lag optimization  
-✅ Debloat Windows services and background apps  
-✅ Disk & power optimization for gaming  
-✅ Fullscreen Optimization tweaks  
-✅ GPU settings tuning (NVIDIA supported)  
-✅ Backup and revert options for every tweak  
-✅ Clean and styled batch interface (CMD)
+> 🧼 Best used after a clean install or system reset to gain peak responsiveness and control.
 
 ---
 
-## 🔒 Safety First
+<h2 align="center">🏗️ Key Features</h2>
 
-On first launch, you’ll be prompted to:
-- ☑️ Create a **System Restore Point**
-- ☑️ Backup the **Windows Registry**
-
-These steps are strongly recommended in case you want to revert any tweaks.
-
----
-
-## 🚀 How to Use
-
-1. **Right-click** `Icefrost_Optimizer.bat` → Run as Administrator  
-2. Read the warning screen carefully  
-3. Select one of the following options:
-
-```
-[ 1 ] Run Restore + Backup and Continue  
-[ 2 ] Create System Restore Point only  
-[ 3 ] Backup Registry only  
-[ 0 ] Exit  
-```
-
-4. Use the main menu to apply tweaks, restore settings, or review available options.
+- One-click restore point + full registry backup  
+- Fullscreen Optimization (FSO) & GameDVR tweaks  
+- Enable high-resolution timers (Timer Resolution)  
+- Disable telemetry, Cortana, and background apps  
+- Tweak GPU settings (NVIDIA supported)  
+- Improve mouse & input latency  
+- Optimize disk, memory, and CPU scheduling  
+- Disable unnecessary services and power limits  
+- Revert and restore functions for every tweak  
+- Modern styled batch interface
 
 ---
 
-## 📁 Registry Backups
+<h2 align="center">⬇️ Downloads</h2>
 
-Backups are saved to:  
-```
-C:\Backup Registry\
-```
-Each file is named using this format:
-```
-HKEY_CLASSES_ROOT_MM-DD-YYYY.reg
-```
+Grab the latest release of Icefrost Optimizer from the [Releases](https://github.com/icefrostki/icefrost-optimizer/releases) page.
 
 ---
 
-## 🧠 Recommended For
+<h2 align="center">🖼️ Screenshots</h2>
 
-- Gamers looking to reduce input lag and boost FPS  
-- Advanced users who want clean, optimized Windows installs  
-- Tweakers and performance enthusiasts  
+See Icefrost in action: [Screenshots](https://github.com/icefrostki/icefrost-optimizer/blob/main/SCREENSHOTS.md)
 
 ---
 
-## 📌 Notes
+<h2 align="center">⚙️ Usage</h2>
 
-- The script uses **UTF-8 encoding** for compatibility with special characters.
-- Developed entirely in `batch (.bat)` format — no installation required.
-- Supports Windows 10 and 11 (x64 recommended).
+1. Right-click `Icefrost_Optimizer.bat` → **Run as Administrator**  
+2. Choose your protection method:  
+   - `[1]` System Restore + Registry Backup  
+   - `[2]` System Restore only  
+   - `[3]` Registry Backup only  
+3. Apply tweaks or restore defaults via the menu.
+
+> All changes are logged and can be reverted manually.
+
+---
+
+<h2 align="center">🔄 Backup Output</h2>
+
+Backups are stored in:  
+`C:\Backup Registry\`  
+
+Format:  
+`HKEY_CLASSES_ROOT_MM-DD-YYYY.reg`
 
 ---
 
-## ❤️ Credits
+<h2 align="center">🧠 Target Audience</h2>
 
-Created by **Icefrost**  
-Inspired by the passion for a cleaner, faster, and sharper Windows experience.
+- Gamers looking to reduce input latency & increase FPS  
+- Advanced users and tinkerers  
+- Performance enthusiasts
 
 ---
+
+<h2 align="center">🔐 Safety</h2>
+
+- ⚠️ Always back up before applying changes  
+- All modifications are local, offline, and transparent  
+- Compatible with **Windows 10** & **Windows 11**
+
+---
+
+<h2 align="center">❤️ Credits</h2>
+
+Made with care by **Ezekiel Dumanglas**  
+Banner inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
+
