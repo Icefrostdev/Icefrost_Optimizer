@@ -1,5 +1,5 @@
 1. Successfully added disable telemetry option 
-2. Successfully added disable FastStartup (Hiberboot)
+2. Successfully added disable FastStartup (Hiberboot) 
 3. (Wokring-on) Memory Optimizations/Memory Compression
 4. "Disabled" tweaks from :WindowsSettings due to instablity of said tweaks on systems systems.
 5. (Wokring-on) Radeon GPU tweaks
