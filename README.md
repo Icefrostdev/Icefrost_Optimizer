@@ -81,11 +81,15 @@ Format:
 - ⚠️ Always back up before applying changes  
 - All modifications are local, offline, and transparent  
 - Compatible with **Windows 10** & **Windows 11**
+> If you are concerned about 
 
 ---
 
 <h2 align="left">❤️ Credits</h2>
 
-Made with care by **Icefrostki**  
+Made with care by **Icefrostdev**  
 Banner and design inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
+Resources for applications by [https://stixtweaks.com/]
+
+This is just a simple project that i made as a beginner:) I do not intend to sell or distribute this for my personal gain
 
