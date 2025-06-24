@@ -1,4 +1,4 @@
-# 🔐 Security Policy
+# 🔐 Security Policy 
 
 Thank you for choosing the Optimizer! I take your security seriously and aim to provide a safe and reliable tool. Please read the following to use the Optimizer effectively while keeping your system secure.
 
