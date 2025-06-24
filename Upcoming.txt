@@ -1,5 +1,6 @@
 1. Successfully added disable telemetry option /
 2. Successfully added disable FastStartup (Hiberboot)
-3. Memory Optimizations/Memory Compression
-4. Radeon GPU tweaks
-5. Network Tweaks
+3. (Wokring-on) Memory Optimizations/Memory Compression
+4. (Wokring-on) Radeon GPU tweaks
+5. (Wokring-on) Network Tweaks
+6. (Wokring-on) Revert Menu For Addtional Tweaks
