@@ -24,12 +24,19 @@ Welcome to **Icefrost Optimizer** — a powerful command-line-based system optim
 - Fullscreen Optimization (FSO) & GameDVR tweaks  
 - Enable high-resolution timers (Timer Resolution)  
 - Disable telemetry, Cortana, and background apps  
-- Tweak GPU settings (NVIDIA supported)  
+- Tweak GPU settings (NVIDIA supported) 
 - Improve mouse & input latency  
 - Optimize disk, memory, and CPU scheduling  
 - Disable unnecessary services and power limits  
 - Revert and restore functions for every tweak  
 - Modern styled batch interface
+> "Planned: AMD support and additional functionalities may be added in future updates."
+
+<h2 align="left">💻 Requirements</h2>
+- Windows 10/11
+  - Tested on Windows 10 x64 22H2 
+  - Currently being testing on Windows 11
+
 
 ---
 
@@ -73,6 +80,7 @@ Format:
 - Gamers looking to reduce input latency & increase FPS  
 - Advanced users and tinkerers  
 - Performance enthusiasts
+- Windows Power Users
 
 ---
 
@@ -81,15 +89,16 @@ Format:
 - ⚠️ Always back up before applying changes  
 - All modifications are local, offline, and transparent  
 - Compatible with **Windows 10** & **Windows 11**
-> If you are concerned about 
+> If you’re concerned about security, feel free to inspect the code for any malicious behavior.
+> ⚠️Do not run random .bat scripts from the internet. Always review the code and double-check what it does before executing.
 
 ---
 
 <h2 align="left">❤️ Credits</h2>
 
 Made with care by **Icefrostdev**  
-Banner and design inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
-Resources for applications by [https://stixtweaks.com/]
+- Banner and design inspired by [Hellzerg's Optimizer](https://github.com/hellzerg/optimizer)
+- Resources for applications by https://stixtweaks.com
 
-This is just a simple project that i made as a beginner:) I do not intend to sell or distribute this for my personal gain
+This is just a simple project that i made as a beginner:) I do not intend to sell or distribute this for my personal gain.
 
